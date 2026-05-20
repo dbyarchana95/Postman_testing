@@ -6,7 +6,7 @@
 ### Pre-requisites
 Base URL = https://dummyjson.com
 #### Environment variables
-![Postman Login Test](images/env_var-test.png)
+![Postman Login Test](./images/env_var-test.png)
 
 
 ----
