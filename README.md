@@ -47,7 +47,7 @@ GET
 Endpoint: {{base_url}}/auth/me
 Authorization: Bearer {{accessToken}}
 
-![Postman Test](images/user_detail-test.png)
+![Postman Test](images/user_detail-test.PNG)
 
 
 Case 1.3: Get Products
@@ -72,7 +72,7 @@ GET
 Endpoint: {{base_url}}/products/{{product_id}}
 Authorization: Bearer {{accessToken}}
 
-![Postman Test](images/get_products-test.png)
+![Postman Test](images/get_products-test.PNG)
 
 ----
 Case 1.4: Add products to cart
@@ -114,7 +114,7 @@ POST
 ```
 Endpoint: {{base_url}}/carts/add
 
-![Postman Test](images/add_cart-test.png)
+![Postman Test](images/add_cart-test.PNG)
 
 ----
 
@@ -152,6 +152,6 @@ GET
 ```
 Endpoint: {{base_url}}/carts/31
 
-![Postman Test](images/get_cart_detail-test.png)
+![Postman Test](images/get_cart_detail-test.PNG)
 
 
