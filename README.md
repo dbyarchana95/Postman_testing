@@ -6,7 +6,7 @@
 ### Pre-requisites
 Base URL = https://dummyjson.com
 #### Environment variables
-![Postman Login Test](./images/env_var-test.png)
+![Postman Login Test](./images/env_var-test.PNG)
 
 
 ----
@@ -34,7 +34,7 @@ POST
 ```
 Endpoint: {{base_url}}/auth/me
 
-![Postman Login Test](images/login-test.png)
+![Postman Login Test](images/login-test.PNG)
 
 ----
 Case 1.2: Get User Profile
