@@ -33,7 +33,7 @@ The project was created to practice REST API testing concepts including:
 # Environment setup
 First of all set the below environment for this project:
 
-![Postman Test](images/env_var.PNG)
+![Postman Test](images/Env_var.PNG)
 
 * This environment variable can be called at any time in the project wherever required to call the website address.
 * Never forget to select the correct environment for the particular project
